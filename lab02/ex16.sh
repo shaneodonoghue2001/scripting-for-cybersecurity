@@ -1,7 +1,7 @@
 #!/bin/bash 
 
 username="Alex" 
-hostname=$(whoami)
+hostname=$(hostname)
 current_directory=$(pwd)
 number_of_items_in_the_current_directory=$(pwd | wc -l)
 
