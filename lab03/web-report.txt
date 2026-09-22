@@ -4,3 +4,6 @@ Total Requests: 0
  403 Responces: 34
 404 Responces: 37
 Requests to /admin: 29
+Requests to /.env: 9
+sqlmap Requests: 60
+
